@@ -10,4 +10,7 @@ sdf<<<<<<< HEAD
 >>>>>>> feature1
 hello
 hello1
+<<<<<<< HEAD
 Add in test.
+=======
+Add in test1.
